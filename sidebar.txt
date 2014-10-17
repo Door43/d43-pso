@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pso:home|Door43 (pso)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pso|d43-pso repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pso/archive/master.zip|d43-pso.zip]]
+
+**Recent Changes**
+{{changes>ns = pso}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pso|Ethnologue data]]
+
